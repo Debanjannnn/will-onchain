@@ -3,15 +3,7 @@
 
 A **Move-based smart contract** that enables users to create, manage, and claim digital wills on the **Aptos blockchain**.
 This contract ensures that digital assets are securely transferred to a chosen recipient if the owner becomes inactive for a specified duration.
-Here’s a clean, beginner-friendly **README.md** for your Aptos smart contract 👇
-![Uploading image.png…]()
-
----
-
-# 🧾 Will Smart Contract – Decentralized Digital Inheritance on Aptos
-
-A **Move-based smart contract** that enables users to create, manage, and claim digital wills on the **Aptos blockchain**.
-This contract ensures that digital assets are securely transferred to a chosen recipient if the owner becomes inactive for a specified duration.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bfcde56b-ebc3-45d2-94fa-689b05f79a1c" />
 
 ---
 
